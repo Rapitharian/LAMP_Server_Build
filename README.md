@@ -1,5 +1,4 @@
 # LAMP_Install
-# ./install_lamp.sh 2>&1 | tee -a LAMP_Install.log
 Install Apache, MariaDB and PHP on Linux (LAMP)
 
 <b><u>Prerequistes:</u></b><br>
